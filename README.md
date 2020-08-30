@@ -1,2 +1,2 @@
-# metodo-lu
-Solução de sistema de equaçoẽs lineares usando metodo LU
+# Universidade de Brasilia
+Solução de sistema de equaçoẽs lineares usando metodo LU.
