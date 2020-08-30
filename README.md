@@ -1,2 +1,2 @@
 # Universidade de Brasilia
-Solução de sistema de equaçoẽs lineares usando metodo LU.
+Problema 2 - Solução de sistema de equaçoẽs lineares usando metodo LU.
